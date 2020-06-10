@@ -1,0 +1,2 @@
+# NLP-TwitterDataAnalysis
+In this project, Twitter Data has been analysed and sentiment analysis is done over each tweet. Apart from it, using LDA, topic modelling has been done and topic row has been attached to the final data output. The output data is supported by visualizations done using seaborn and matplotlib. Apart from these, Parts of Speech and Named Entity Recognition has been applied over the data.
